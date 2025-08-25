@@ -1,9 +1,10 @@
-# E-commerce-website
-E-Commerce MERN Stack
+# ShopEdge-website
+A Full-Stack MERN Application
 
-This is a simple e-commerce website built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides essential features for online shopping:
+This is a simple e-commerce website named ShopEdge, built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides essential features for online shopping.
 
-Features Product Listings: Explore available products with details.
+Features
+Product Listings: Explore available products with details.
 
 Product Details: View specifications and customer reviews.
 
@@ -14,7 +15,6 @@ User Authentication: Register, log in, and enjoy a personalized experience.
 User Dashboard: View order history and manage account details.
 
 Checkout Process: Securely complete purchases.
-
 Installation
 
 Clone the repository:
